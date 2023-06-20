@@ -1,0 +1,43 @@
+body {
+  background-color: #a87def;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 24px;
+  color: #efcb7d;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+.container {
+  height: 40vh;
+  width: 100%;
+}
+
+.skin-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  font-weight: 600;
+  padding: 16px;
+  box-sizing: border-box;
+}
+
+.skin-btn {
+  text-decoration: none;
+  border: none;
+  background: #7d99ef;
+  border-radius: 15%;
+  height: 32px;
+  margin-top: 20px;
+  padding: 8px 14px;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 16px;
+}
